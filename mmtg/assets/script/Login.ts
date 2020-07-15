@@ -24,7 +24,7 @@ export default class Login extends cc.Component {
     }
 
     start () {
-
+        cc.log('test');
     }
 
     // update (dt) {}
