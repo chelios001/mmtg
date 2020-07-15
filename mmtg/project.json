@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "mmtg",
+  "id": "cb9c3389-ac26-4dbd-af38-1d9470c6fcab",
+  "version": "2.4.0",
+  "isNew": false
+}
