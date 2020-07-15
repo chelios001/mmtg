@@ -19,7 +19,7 @@ export default class Login extends cc.Component {
     // LIFE-CYCLE CALLBACKS:
 
     onLoad () {
-        cc.log('1111');
+        cc.log('222');
 
     }
 
